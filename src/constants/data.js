@@ -9,7 +9,7 @@ const categories = [
     {
         id: 2,
         img: require('../../assets/images/restauranticon.png'),
-        heading: 'Restaurants',
+        heading: 'Restaurants', 
         paragraph: 'Lorem Ipsum is simply dummy text',
         backgroundColor: '#8ECC81',
     },
